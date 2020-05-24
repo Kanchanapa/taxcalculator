@@ -349,8 +349,8 @@ namespace _2.Pre_ProjectFinal
             {
                 buyhouse58.Text = "0";
             }
-            int showfullhouse58 = Convert.ToInt32(buyhouse58.Value) * 20 / 100;
-            showhouse58value20.Text = showfullhouse58.ToString();
+            int show5yearhouse58 = Convert.ToInt32(buyhouse58.Value) * 20 / 100;
+            showhouse58value20.Text = show5yearhouse58.ToString();
             showhouse58value4.Text = firsthouse58.ToString();
             ///บ้านหลังแรก 62
             int firsthouse62 = Convert.ToInt32(buyhouse62.Value) * 4 / 100;
